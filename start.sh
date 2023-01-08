@@ -1,4 +1,4 @@
-python bot.py +[phone1] doge
+python bot.py +[+4915201082831] doge
 python bot.py +[phone1] zec
 python bot.py +[phone1] ltc
 python bot.py +[phone1] btc
